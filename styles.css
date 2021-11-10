@@ -1,0 +1,16 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 200px;
+}
+
+.description {
+    font-style: italic;
+}
+
+h1 {
+    text-decoration: underline wavy blue;
+}
